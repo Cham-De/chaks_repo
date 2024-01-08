@@ -1,1 +1,2 @@
-echo "Hello World, this is chaks_repo heheheheheheee"
+echo "Hello World, this is chaks_repo"
+echo "Testing hooks"
